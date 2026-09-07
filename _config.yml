@@ -1,0 +1,5 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Anoosha Ikram - Portfolio]
+description: [description: Hi, I'm Anoosha — this is where I share my projects, experiments, and everything I'm learning as a developer.]
