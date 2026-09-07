@@ -133,7 +133,7 @@ Army Public School, Sukkur, Sindh · Grade A1 · *May 2020 – Apr 2022*
 
 ### 🏆 Achievements & Leadership
 
-- 🏅 Awarded laptop — Prime Minister Youth Laptop Scheme (2026)
+- 🏅 Prime Minister Youth Laptop Winner (2026)
 - 💰 $200 Seed Fund Winner for women-safety app — Aspire Institute of Harvard (2026)
 - 🎓 SEEF Fully Funded Scholarship for Bachelors (2022–2026)
 - 🗂️ Office Manager, CSE Society (2025–2026)
@@ -154,4 +154,4 @@ Army Public School, Sukkur, Sindh · Grade A1 · *May 2020 – Apr 2022*
   <a href="mailto:anooshasheikh710@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my pinned repositories below!</i></p>
+<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repositories below!</i></p>
